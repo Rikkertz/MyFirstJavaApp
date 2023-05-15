@@ -12,6 +12,6 @@ public class FirstApp {
         System.out.println("We leren nu Java en daar weet ik nog vrijwel niets van.");
         System.out.println("Laten we er een paar leuke weken van maken!");
         System.out.println("Houdoe!!");
-
+// This is the end of this story
     }
 }
