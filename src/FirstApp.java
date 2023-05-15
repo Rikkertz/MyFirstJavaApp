@@ -1,6 +1,6 @@
 /*
 My first java App.
-Prints 'Hallo Wereld!'
+Prints a short introduction of myself.'
 Written by Rik
  */
 
